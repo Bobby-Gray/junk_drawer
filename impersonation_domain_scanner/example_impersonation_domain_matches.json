@@ -1,0 +1,490 @@
+{
+    "activitygoogle": {
+        "result": [
+            {
+                "created_epoch": "1727300783",
+                "dns_a": [
+                    "104.21.19.216",
+                    "172.67.190.59"
+                ],
+                "dns_mx": [],
+                "dns_ns": [
+                    "guy.ns.cloudflare.com.",
+                    "chin.ns.cloudflare.com."
+                ],
+                "domain": "activity-google.com",
+                "fuzzer": "levenshtein_distance_1",
+                "registrar": "NICENIC INTERNATIONAL GROUP CO., LIMITED"
+            }
+        ]
+    },
+    "google": {
+        "result": [
+            {
+                "created_epoch": "",
+                "dns_a": [
+                    "104.247.81.72"
+                ],
+                "dns_mx": [
+                    "mail.h-email.net."
+                ],
+                "dns_ns": [
+                    "ns2.parkingcrew.net.",
+                    "ns1.parkingcrew.net."
+                ],
+                "domain": "coogle.ch",
+                "fuzzer": "levenshtein_distance_1",
+                "registrar": ""
+            },
+            {
+                "created_epoch": "1728058774",
+                "dns_a": [
+                    "84.32.84.32"
+                ],
+                "dns_mx": [],
+                "dns_ns": [
+                    "ns2.dns-parking.com.",
+                    "ns1.dns-parking.com."
+                ],
+                "domain": "doogle.blog",
+                "fuzzer": "levenshtein_distance_1",
+                "registrar": "HOSTINGER operations, UAB"
+            },
+            {
+                "created_epoch": "1728032001",
+                "dns_a": [
+                    "157.7.44.174"
+                ],
+                "dns_mx": [
+                    "mx.hetemail.jp."
+                ],
+                "dns_ns": [
+                    "dns0.heteml.jp.",
+                    "dns1.heteml.jp."
+                ],
+                "domain": "foogle.site",
+                "fuzzer": "levenshtein_distance_1",
+                "registrar": "GMO INTERNET, INC."
+            },
+            {
+                "created_epoch": "1695243378",
+                "dns_a": [
+                    "172.232.112.221"
+                ],
+                "dns_mx": [],
+                "dns_ns": [],
+                "domain": "g7ogle.com",
+                "fuzzer": "levenshtein_distance_1",
+                "registrar": "Xin Net Technology Corporation"
+            },
+            {
+                "created_epoch": "1695312304",
+                "dns_a": [
+                    "172.232.112.221"
+                ],
+                "dns_mx": [],
+                "dns_ns": [],
+                "domain": "go7gle.com",
+                "fuzzer": "levenshtein_distance_1",
+                "registrar": "Xin Net Technology Corporation"
+            },
+            {
+                "created_epoch": "1728105951",
+                "dns_a": [
+                    "162.255.119.25"
+                ],
+                "dns_mx": [
+                    "eforward2.registrar-servers.com.",
+                    "eforward3.registrar-servers.com.",
+                    "eforward5.registrar-servers.com.",
+                    "eforward4.registrar-servers.com.",
+                    "eforward1.registrar-servers.com."
+                ],
+                "dns_ns": [
+                    "dns2.registrar-servers.com.",
+                    "dns1.registrar-servers.com."
+                ],
+                "domain": "gogle.lat",
+                "fuzzer": "levenshtein_distance_1",
+                "registrar": "NAMECHEAP INC"
+            },
+            {
+                "created_epoch": "1727423413",
+                "dns_a": [
+                    "203.156.30.163"
+                ],
+                "dns_mx": [
+                    "route3.mx.cloudflare.net.",
+                    "route1.mx.cloudflare.net.",
+                    "route2.mx.cloudflare.net."
+                ],
+                "dns_ns": [
+                    "george.ns.cloudflare.com.",
+                    "ainsley.ns.cloudflare.com."
+                ],
+                "domain": "goo0gle.click",
+                "fuzzer": "levenshtein_distance_1",
+                "registrar": "GMO INTERNET, INC."
+            },
+            {
+                "created_epoch": "1727283955",
+                "dns_a": [
+                    "172.67.178.248",
+                    "104.21.18.3"
+                ],
+                "dns_mx": [],
+                "dns_ns": [
+                    "malavika.ns.cloudflare.com.",
+                    "alberto.ns.cloudflare.com."
+                ],
+                "domain": "gooele.org",
+                "fuzzer": "levenshtein_distance_1",
+                "registrar": "NAMECHEAP INC"
+            },
+            {
+                "created_epoch": "1728418785",
+                "dns_a": [
+                    "104.21.6.243",
+                    "172.67.135.126"
+                ],
+                "dns_mx": [],
+                "dns_ns": [
+                    "isla.ns.cloudflare.com.",
+                    "clint.ns.cloudflare.com."
+                ],
+                "domain": "googie.click",
+                "fuzzer": "levenshtein_distance_1",
+                "registrar": "Name.com, Inc."
+            },
+            {
+                "created_epoch": "",
+                "dns_a": [],
+                "dns_mx": [],
+                "dns_ns": [],
+                "domain": "googl.blog",
+                "fuzzer": "levenshtein_distance_1",
+                "registrar": ""
+            },
+            {
+                "created_epoch": "1727911487",
+                "dns_a": [],
+                "dns_mx": [],
+                "dns_ns": [],
+                "domain": "google.play",
+                "fuzzer": "levenshtein_distance_0",
+                "registrar": "Charleston Road Registry Billable"
+            },
+            {
+                "created_epoch": "1727366029",
+                "dns_a": [],
+                "dns_mx": [],
+                "dns_ns": [
+                    "a.share-dns.com.",
+                    "b.share-dns.net."
+                ],
+                "domain": "google5.top",
+                "fuzzer": "levenshtein_distance_1",
+                "registrar": "Gname.com Pte. Ltd."
+            },
+            {
+                "created_epoch": "",
+                "dns_a": [],
+                "dns_mx": [],
+                "dns_ns": [],
+                "domain": "googlee.com.au",
+                "fuzzer": "levenshtein_distance_1",
+                "registrar": "Above.au Pty Limited"
+            },
+            {
+                "created_epoch": "1727742370",
+                "dns_a": [],
+                "dns_mx": [],
+                "dns_ns": [],
+                "domain": "googlee.net",
+                "fuzzer": "levenshtein_distance_1",
+                "registrar": "Hosting Concepts B.V. d/b/a Registrar.eu"
+            },
+            {
+                "created_epoch": "1728387910",
+                "dns_a": [],
+                "dns_mx": [],
+                "dns_ns": [
+                    "leland.ns.cloudflare.com.",
+                    "lana.ns.cloudflare.com."
+                ],
+                "domain": "googles.monster",
+                "fuzzer": "levenshtein_distance_1",
+                "registrar": "NameSilo, LLC"
+            },
+            {
+                "created_epoch": "",
+                "dns_a": [
+                    "138.201.140.145"
+                ],
+                "dns_mx": [
+                    "googlex.co.il."
+                ],
+                "dns_ns": [
+                    "ns1.sherlockhost.co.uk.",
+                    "ns2.sherlockhost.co.uk."
+                ],
+                "domain": "googlex.co.il",
+                "fuzzer": "levenshtein_distance_1",
+                "registrar": ""
+            },
+            {
+                "created_epoch": "1727355973",
+                "dns_a": [
+                    "162.0.235.84"
+                ],
+                "dns_mx": [
+                    "mx1-hosting.jellyfish.systems.",
+                    "mx3-hosting.jellyfish.systems.",
+                    "mx2-hosting.jellyfish.systems."
+                ],
+                "dns_ns": [
+                    "dns2.namecheaphosting.com.",
+                    "dns1.namecheaphosting.com."
+                ],
+                "domain": "googli.xyz",
+                "fuzzer": "levenshtein_distance_1",
+                "registrar": "DYNADOT LLC"
+            },
+            {
+                "created_epoch": "1727787200",
+                "dns_a": [],
+                "dns_mx": [],
+                "dns_ns": [
+                    "ns7.alidns.com.",
+                    "ns8.alidns.com."
+                ],
+                "domain": "googlle.space",
+                "fuzzer": "levenshtein_distance_1",
+                "registrar": "Dominet (HK) Limited"
+            },
+            {
+                "created_epoch": "1727356577",
+                "dns_a": [],
+                "dns_mx": [],
+                "dns_ns": [
+                    "etta.ns.cloudflare.com.",
+                    "gerardo.ns.cloudflare.com."
+                ],
+                "domain": "googly.icu",
+                "fuzzer": "levenshtein_distance_1",
+                "registrar": "NAMECHEAP INC"
+            },
+            {
+                "created_epoch": "1727629275",
+                "dns_a": [
+                    "191.101.104.253"
+                ],
+                "dns_mx": [
+                    "mx2.hostinger.com.",
+                    "mx1.hostinger.com."
+                ],
+                "dns_ns": [
+                    "ns2.dns-parking.com.",
+                    "ns1.dns-parking.com."
+                ],
+                "domain": "gooogle.fun",
+                "fuzzer": "levenshtein_distance_1",
+                "registrar": "HOSTINGER operations, UAB"
+            },
+            {
+                "created_epoch": "1727456036",
+                "dns_a": [
+                    "3.112.189.206"
+                ],
+                "dns_mx": [
+                    "eforward2.registrar-servers.com.",
+                    "eforward3.registrar-servers.com.",
+                    "eforward5.registrar-servers.com.",
+                    "eforward4.registrar-servers.com.",
+                    "eforward1.registrar-servers.com."
+                ],
+                "dns_ns": [
+                    "dns2.registrar-servers.com.",
+                    "dns1.registrar-servers.com."
+                ],
+                "domain": "goople.app",
+                "fuzzer": "levenshtein_distance_1",
+                "registrar": "NAMECHEAP INC"
+            },
+            {
+                "created_epoch": "",
+                "dns_a": [
+                    "5.35.93.235"
+                ],
+                "dns_mx": [
+                    "mx1.beget.com.",
+                    "mx2.beget.com."
+                ],
+                "dns_ns": [
+                    "ns2.beget.pro.",
+                    "ns1.beget.pro.",
+                    "ns2.beget.com.",
+                    "ns1.beget.com.",
+                    "ns2.beget.ru.",
+                    "ns1.beget.ru."
+                ],
+                "domain": "loogle.ru",
+                "fuzzer": "levenshtein_distance_1",
+                "registrar": ""
+            },
+            {
+                "created_epoch": "1728319653",
+                "dns_a": [
+                    "5.35.93.235"
+                ],
+                "dns_mx": [
+                    "mx2.beget.com.",
+                    "mx1.beget.com."
+                ],
+                "dns_ns": [
+                    "ns1.beget.pro.",
+                    "ns2.beget.com.",
+                    "ns1.beget.com.",
+                    "ns2.beget.pro."
+                ],
+                "domain": "loogle.store",
+                "fuzzer": "levenshtein_distance_1",
+                "registrar": "Beget LLC"
+            },
+            {
+                "created_epoch": "1728140393",
+                "dns_a": [
+                    "13.248.169.48",
+                    "76.223.54.146"
+                ],
+                "dns_mx": [
+                    "."
+                ],
+                "dns_ns": [
+                    "ns3.afternic.com.",
+                    "ns4.afternic.com."
+                ],
+                "domain": "toogle.agency",
+                "fuzzer": "levenshtein_distance_1",
+                "registrar": "GoDaddy.com, LLC"
+            }
+        ]
+    },
+    "googleaccount": {
+        "result": [
+            {
+                "created_epoch": "1727947250",
+                "dns_a": [
+                    "44.227.76.166",
+                    "44.227.65.245"
+                ],
+                "dns_mx": [],
+                "dns_ns": [
+                    "curitiba.ns.porkbun.com.",
+                    "fortaleza.ns.porkbun.com.",
+                    "maceio.ns.porkbun.com.",
+                    "salvador.ns.porkbun.com."
+                ],
+                "domain": "googleaccount.info",
+                "fuzzer": "levenshtein_distance_0",
+                "registrar": "Porkbun LLC"
+            }
+        ]
+    },
+    "googlecloud": {
+        "result": [
+            {
+                "created_epoch": "1727874321",
+                "dns_a": [
+                    "172.234.192.109"
+                ],
+                "dns_mx": [
+                    "mx156.hostedmxserver.com."
+                ],
+                "dns_ns": [
+                    "ns2.parklogic.com.",
+                    "ns1.parklogic.com."
+                ],
+                "domain": "gogglecloud.xyz",
+                "fuzzer": "levenshtein_distance_1",
+                "registrar": "Porkbun LLC"
+            }
+        ]
+    },
+    "googlemfa": {
+        "result": [
+            {
+                "created_epoch": "1727987456",
+                "dns_a": [
+                    "8.25.82.212"
+                ],
+                "dns_mx": [],
+                "dns_ns": [
+                    "ns7.alidns.com.",
+                    "ns8.alidns.com."
+                ],
+                "domain": "googlemfaq.com",
+                "fuzzer": "levenshtein_distance_1",
+                "registrar": "Gname.com Pte. Ltd."
+            }
+        ]
+    },
+    "googlesso": {
+        "result": [
+            {
+                "created_epoch": "1727446373",
+                "dns_a": [
+                    "93.127.218.152"
+                ],
+                "dns_mx": [],
+                "dns_ns": [
+                    "ns59.domaincontrol.com.",
+                    "ns60.domaincontrol.com."
+                ],
+                "domain": "googleseo.agency",
+                "fuzzer": "levenshtein_distance_1",
+                "registrar": "GoDaddy.com, LLC"
+            }
+        ]
+    },
+    "googleworks": {
+        "result": [
+            {
+                "created_epoch": "1727596571",
+                "dns_a": [
+                    "149.88.82.87"
+                ],
+                "dns_mx": [
+                    "mail.googlework.top."
+                ],
+                "dns_ns": [
+                    "ns2.myhostadmin.net.",
+                    "ns1.myhostadmin.net."
+                ],
+                "domain": "googlework.top",
+                "fuzzer": "levenshtein_distance_1",
+                "registrar": "Chengdu west dimension digital"
+            }
+        ]
+    },
+    "ssogoogle": {
+        "result": [
+            {
+                "created_epoch": "",
+                "dns_a": [
+                    "64.34.68.20"
+                ],
+                "dns_mx": [
+                    "seogoogle.com.au."
+                ],
+                "dns_ns": [
+                    "ns1.hostpapa.com.",
+                    "ns2.hostpapa.com."
+                ],
+                "domain": "seogoogle.com.au",
+                "fuzzer": "levenshtein_distance_1",
+                "registrar": "Tucows (Australia) Pty Ltd trading as OpenSRS"
+            }
+        ]
+    }
+}
