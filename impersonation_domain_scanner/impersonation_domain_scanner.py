@@ -41,15 +41,15 @@ print(f'levenshtein exclude list: {exclude}\n')
 ftd_url = 'https://raw.githubusercontent.com/xRuffKez/NRD/main/lists/14-day/domains-only/nrd-14day.txt'
 ftd_filename = os.path.join(os.getcwd(), 'nrd_14day.txt')
 
-def scrape_nrds(url, td_filename):
+def scrape_nrds(url, ftd_filename):
     print(f'Scraping domains registered in the past 14 days and checking for matches...')
     r_td = requests.get(url, stream=True)
     r_td.raise_for_status()  # Raise an exception for bad status codes
-    with open(td_filename, "wb") as file:
+    with open(ftd_filename, "wb") as file:
         for chunk in r_td.iter_content(chunk_size=8192):
             file.write(chunk)
 
-def build_impersonation_regex(must, opt, td_filename):
+def build_impersonation_regex(must, opt, ftd_filename):
     print(f'Building impersonation domain match regex via confusables and punycode...')
     must_rex = ""
     pre_opt_rex = ""
@@ -107,7 +107,7 @@ def build_impersonation_regex(must, opt, td_filename):
     opt_must_opt = pre_opt_rex + must_rex + post_opt_rex
     ### Scan newly registered domains for matches
     RE_PATTERNS = re.compile(opt_must_opt) 
-    with open(td_filename, "r") as file:
+    with open(ftd_filename, "r") as file:
         lines = file.readlines()
         for i in lines:
             nrd_dom = tldextract.extract(str(i.strip())).domain
